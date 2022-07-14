@@ -33,10 +33,13 @@
     "bluebird": "^3.5.0",
     "extend": "^3.0.2",
     "request": "^2.88.0",
+    "rollup": "^2.76.0",
     "underscore": "^1.8.2",
     "winston": "^2.3.1"
   },
   "devDependencies": {
+    "@rollup/plugin-commonjs": "^22.0.1",
+    "@rollup/plugin-json": "^4.1.0",
     "coveralls": "^3.0.2",
     "gulp": "^4.0.0",
     "gulp-jshint": "^2.1.0",
